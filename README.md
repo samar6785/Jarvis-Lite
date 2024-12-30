@@ -1,4 +1,4 @@
-JarvisAI(Artificial Intelligence Desktop Assistant) is a smart desktop assistant built using HTML, CSS, JavaScript, and OpenAI APIs. This project leverages advanced natural language processing capabilities to provide context-aware responses and perform various tasks, offering users a highly interactive and intelligent assistant experience.
+JarvisAI-(Artificial Intelligence Desktop Assistant) is a smart desktop assistant built using HTML, CSS, JavaScript, and OpenAI APIs. This project leverages advanced natural language processing capabilities to provide context-aware responses and perform various tasks, offering users a highly interactive and intelligent assistant experience.
 
 Features:-
 
