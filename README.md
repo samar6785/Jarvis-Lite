@@ -1,5 +1,7 @@
 Jarvis-Lite
 
+Live Website-link -  https://samar6785.github.io/Jarvis-Lite/
+
 ![Image](https://github.com/user-attachments/assets/3e9fff7e-d031-4d13-9736-d2463c11cda5)
 
 Jarvis-Lite-(Artificial Intelligence Desktop Assistant) is a smart desktop assistant built using HTML, CSS, JavaScript, and OpenAI APIs. This project leverages advanced natural language processing capabilities to provide context-aware responses and perform various tasks, offering users a highly interactive and intelligent assistant experience.
@@ -23,8 +25,6 @@ Clean and user-friendly interface designed with HTML and CSS for seamless intera
 
 ->Customizable:
 Easily extensible to add new commands or integrate additional APIs for advanced functionality.
-
-Live Website-link -  https://samar6785.github.io/Jarvis-Lite/
 
 Tech Stack:-
 
